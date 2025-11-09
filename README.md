@@ -23,6 +23,8 @@ Key Derivation Function (KDF): HMAC-SHA256 for session keys
 Counter-based Keystream: Enables parallel processing
 Security Improvements: Prevents key reuse and reduces error propagation
 
-Author: Joori Eihab Alhindi
-Course: Understanding Cryptography by Christof Paar , Jan Pelzl
-Technologies: Python, PyCryptodome, AES, HMAC-SHA256
+#Author: Joori Eihab Alhindi
+
+#Course: Understanding Cryptography by Christof Paar , Jan Pelzl
+
+#Technologies: Python, PyCryptodome, AES, HMAC-SHA256
